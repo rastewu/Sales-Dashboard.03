@@ -44,9 +44,9 @@ Key fields include:
 
 
 ### Tools
-- Excel -  Data Cleaning
-- Tableau Desktop 2024.1 - For creating interactive data visualizations.
-- Tableau Public- For publishing and sharing dashboards online.
+- **Excel** -  Data Cleaning
+- **Tableau Desktop 2024.1** - For creating interactive data visualizations.
+- **Tableau Public**- For publishing and sharing dashboards online.
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, the following tasks were performed:
