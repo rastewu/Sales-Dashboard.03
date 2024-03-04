@@ -1,4 +1,6 @@
 # Superstore Sales Dashboard in Tableau
+![Dashboard 1](https://github.com/rastewu/Sales-Dashboard.03/assets/157243480/34fe6b90-efa8-41f2-908e-e4a2ae82961d)
+
 
 
 ## Table of Contents
