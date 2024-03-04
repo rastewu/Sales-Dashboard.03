@@ -19,7 +19,7 @@
 This Tableau project provides an interactive dashboard visualizing sales data from a sample Superstore dataset. It aims to offer insights into sales performance, customer behavior, and product performance across different regions and categories. This analysis is intended to help stakeholders make informed decisions to drive sales growth and improve operational efficiency.
 
 ### Objective
-- Analyze region wise sales .
+- Analyze region-wise sales .
 - Understand profit by product sub-category.
 - Identify the top Sales customers in each region.
 - Understand product Category-wise Sales and profit.
