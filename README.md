@@ -5,19 +5,20 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
+- [Objective](#objective)
+- [Dataset Description](#dataset-description)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaning-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
+- [Visualizations](#visualizations)
 - [Results/Findings](#results-findings)
-- 
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 
 ### Project Overview
 This Tableau project provides an interactive dashboard visualizing sales data from a sample Superstore dataset. It aims to offer insights into sales performance, customer behavior, and product performance across different regions and categories. This analysis is intended to help stakeholders make informed decisions to drive sales growth and improve operational efficiency.
 
-### Objectives
+### Objective
 - Analyze region wise sales .
 - Understand profit by product sub-category.
 - Identify the top Sales customers in each region.
