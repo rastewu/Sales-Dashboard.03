@@ -28,19 +28,19 @@ This project showcases an in-depth analysis of a Superstore's sales data through
 The Superstore dataset encompasses a variety of sales transactions, detailed by customer and product information, geographical location, and financial metrics such as sales, profit, and discount levels. This rich dataset allows for a multifaceted analysis of the business's functioning across different dimensions.
 
 Key fields include:
-Order Date: The date when the order was placed.  
-Ship Date: The date when the order was shipped.  
-Ship Mode: The mode of shipping.  
-Customer ID / Name: Identification of the customer.  
-Segment: Customer segment (e.g., Consumer, Corporate).  
-Country / City / State / Postal Code: Location details.  
-Region: The geographical region.  
-Product ID / Name: Identification of the product.  
-Category / Sub-Category: Product categorization.  
-Sales: Sales amount.  
-Quantity: Number of items per transaction.  
-Discount: Discount applied.  
-Profit: Profit earned.  
+**Order Date**: The date when the order was placed.  
+**Ship Date:** The date when the order was shipped.  
+**Ship Mode:** The mode of shipping.  
+**Customer ID / Name:** Identification of the customer.  
+**Segment:** Customer segment (e.g., Consumer, Corporate).  
+**Country / City / State / Postal Code:** Location details.  
+**Region:** The geographical region.  
+**Product ID / Name:** Identification of the product.  
+**Category / Sub-Category:** Product categorization.  
+**Sales:** Sales amount.  
+**Quantity:** Number of items per transaction.  
+**Discount:** Discount applied.  
+**Profit:** Profit earned.  
 
 
 ### Tools
